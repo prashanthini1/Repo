@@ -1,7 +1,12 @@
 welcome
 you
+
 java
 hibernate
 
 dbms
 tententative
+
+
+done with minor version
+
